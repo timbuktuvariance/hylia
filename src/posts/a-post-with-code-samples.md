@@ -9,7 +9,7 @@ tags:
   - code
   - education
 ---
-Use Chrome and click here to enable web platform
+Use Chrome and click here to enable web platform (not needed in latest chrome version)
 
 <chrome://flags/#enable-experimental-web-platform-features>
 
@@ -27,13 +27,13 @@ Select Pico from the list instead of ESP8266
 
 Create your blocks
 
+Example fading LED
+
+![](/images/screenshot-from-2021-09-22-18-16-42.png)
+
 Click play to upload your programme to the Pico
 
-Example Blinking LED
-
-
-
-
+[See example in simulation workspace](https://bipes.net.br/beta2/ui/#y5f3nr)
 
 Links
 
