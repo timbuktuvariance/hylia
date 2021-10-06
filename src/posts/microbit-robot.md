@@ -9,6 +9,6 @@ tags:
 ---
 This is a robot made with 2 microbits and 2 continuous servos
 
-![](/images/microbitradio.png)
+![](/images/microbitradio.png "Microbit Makecode")
 
 Link to laser cut DXF files
