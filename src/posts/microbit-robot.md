@@ -13,4 +13,4 @@ This is a robot made with 2 microbits and 2 continuous servos
 
 Link to laser cut DXF files
 
-[src/images/chassis-pico-v3.dxf](src/images/chassis-pico-v3.dxf)
+[../images/chassis-pico-v3.dxf](../images/chassis-pico-v3.dxf)
