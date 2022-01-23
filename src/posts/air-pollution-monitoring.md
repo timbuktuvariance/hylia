@@ -19,7 +19,9 @@ We also wanted to make sure we could share our work with a larger audience using
 
 # Technical Challenges and Documentation
 
-As prt of the project, we have been building up on our knowledge and understanding of snesors and microcontrollers. With the support of James Bastone form the Dundemakerspace we awere able to work with the latest RaspberryPi addition: the raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface BIPES that we helped improve giving feedback to the creator.
+As part of the project, we have been building up on our knowledge and understanding of sensors and microcontrollers. With the support of James Bastone from the DundeeMakerspace we were able to work with the latest RaspberryPi addition: the Raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface BIPES that we helped improve giving feedback to the creators.This fantastic new resource was to be deployed later on in the classroom and adapted to the curriculum.
+
+Young people have engage with the project and have found space to develop their own interest, eitheir by building the station, coding the boards, creating communication materials, such as video and voice recording, researching Air Pollution resources online. 
 
 <https://www.youtube.com/watch?v=afwaeJxfApI>
 
