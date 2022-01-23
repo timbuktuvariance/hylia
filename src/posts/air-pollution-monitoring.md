@@ -3,7 +3,23 @@ layout: layouts/post.njk
 title: Air pollution monitoring
 date: 2022-01-08T12:52:41.556Z
 ---
-# Air Quality Monitoring Documentation
+# Air Quality Monitoring Project
+
+Back in 2019, the Morgan Academy Young Engineers Club was working on robotics projects, exploring engineering solutions using microcontrolers such as the Microbit, Arduino and using online tools to programme and connect motors, sensors and articulated structures.
+
+With the help of DundeeMakerspace and their members that are professionals and teachers from the local community, we were able to share interests and explore trends in physical computing, electronics, and many other aspects of the maker movement.
+
+Dundee is a city that does not seems particularly affected by air pollution as it is surrounded by woodlands and an estuary with the open sea on its doorstep, though it suffers from heavy road traffic as any major urban area, and with some factories still active.
+
+The school has ample green areas with a large park juts next to it, and were you driving a car you would not notice any major air poluiton issues. But for those of us that walk or cycle to school, things are different. Two major roads surround the school and traffic is an issue: lorries, buses are constantly passing by.
+
+This isthe reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee.that will create a portable air pollution monitoring station, and gather our data to share with the locla community, giving the younf peole an opportunity to investigate further their knowledge of pollution and how it affects the locla community. 
+
+We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was geratly supported by the communication team at the Royal Society and their "Tomorrow Scientist" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. We produced this first video:
+
+# Technical Challenges and Documentation
+
+As prt of the project, we have been building up on our knowledge and understanding of snesors and microcontrollers. With the support of James Bastone form the Dundemakerspace we awere able to work with the latest RaspberryPi addition: the raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface BIPES that we helped improve giving feedback to the creator.
 
 <https://www.youtube.com/watch?v=afwaeJxfApI>
 
