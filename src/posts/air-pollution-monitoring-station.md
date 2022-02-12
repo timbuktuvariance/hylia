@@ -1,7 +1,11 @@
 ---
 layout: layouts/post.njk
 title: Air pollution monitoring station
-date: 2022-02-12T13:14:28.414Z
+date: 2022-01-26T13:14:28.414Z
+tags:
+  - pollution
+  - school
+  - raspberrypi
 ---
 # Air Quality Monitoring Project
 
