@@ -45,13 +45,11 @@ Project information on the Royal Society website:
 
 **The station version 1.0**
 
-
+![](/images/untitled.png)
 
 **The station version 1.1**
 
 ![](https://lh3.googleusercontent.com/ZXXOI0-75jEcSA0wf1O_VKUYzUSJZpWUnvPhG-vmmDCkJWkTWKNNjirFZR5nD-lzX-OlsjuYQnWa3qLihytcwbT3YkFVBXn0zm-oPHrLTKCdSB_5R_zQRXvybhpMe99IZ4751gNI)
-
-
 
 # Exploring Data
 
