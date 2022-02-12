@@ -7,7 +7,7 @@ date: 2022-01-08T12:52:41.556Z
 
 Back in 2019, the Morgan Academy Young Engineers Club was working on robotics projects, exploring engineering solutions using microcontrolers such as the Microbit, Arduino and using online tools to programme and connect motors, sensors and articulated structures.
 
-With the help of DundeeMakerspace and their members that are professionals and teachers from the local community, we were able to share interests and explore trends in physical computing, electronics, and many other aspects of the maker movement.
+With the help of members from the DundeeMakerspace that are professionals from the local community, we were able to share ideas and explore trends in physical computing, electronics, and many other aspects of the maker movement.
 
 Dundee is a city that does not seems particularly affected by air pollution as it is surrounded by woodlands and an estuary with the open sea on its doorstep, though it suffers from heavy road traffic as any major urban area, and with some factories still active.
 
@@ -40,8 +40,6 @@ Project information on the Royal Society website:
 ![](https://lh3.googleusercontent.com/ZXXOI0-75jEcSA0wf1O_VKUYzUSJZpWUnvPhG-vmmDCkJWkTWKNNjirFZR5nD-lzX-OlsjuYQnWa3qLihytcwbT3YkFVBXn0zm-oPHrLTKCdSB_5R_zQRXvybhpMe99IZ4751gNI)
 
 ![](https://lh3.googleusercontent.com/EE2WSEcZ2R4UxjitMkfhxPk09sfhxFYKYD5Ie0Sx3xOi8qpf09HJROEbt_Kk9-2renKSgrt7dSMjS8zjxIIfbaVS0pQAPowVWRfJx6TfNbEKgLY9kvs8pdEFzjUOQvZoffA0erDd)
-
-
 
 # Exploring Data
 
