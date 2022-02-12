@@ -17,7 +17,7 @@ Dundee is a city that does not seems particularly affected by air pollution as i
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dundee_and_Firth_of_Tay_from_Dundee_Law.jpeg/825px-Dundee_and_Firth_of_Tay_from_Dundee_Law.jpeg)
 
-The school has ample green areas with a large park juts next to it, and were you driving a car you would not notice any major air pollution issues. But for those of us that walk or cycle to school, things are different. Two major roads surround the school and traffic is an issue: lorries, buses are constantly passing by.
+The school has ample green areas with a large park right next to it, and were you driving a car you would not notice any major air pollution issues. But for those of us that walk or cycle to school, things are different. Two major roads surround the school and traffic is an issue: large lorries and buses are constantly passing by.
 
 ![](/images/screenshot-from-2022-02-12-12-18-43.png)
 
