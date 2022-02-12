@@ -33,7 +33,7 @@ We also wanted to make sure we could share our work with a larger audience using
 
 As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of James Bastone from the DundeeMakerspace we were able to work with the latest RaspberryPi addition: the Raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resource was to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
 
-Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting adn analysing data. 
+Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
 We have made the code available online here:
 
@@ -43,7 +43,11 @@ Project information on the Royal Society website:
 
 <https://royalsociety.org/grants-schemes-awards/grants/partnership-grants/tomorrows-climate-scientists/case-studies/human-impact-projects/>
 
-**The station V1.1**
+**The station version 1.0**
+
+
+
+**The station version 1.1**
 
 ![](https://lh3.googleusercontent.com/ZXXOI0-75jEcSA0wf1O_VKUYzUSJZpWUnvPhG-vmmDCkJWkTWKNNjirFZR5nD-lzX-OlsjuYQnWa3qLihytcwbT3YkFVBXn0zm-oPHrLTKCdSB_5R_zQRXvybhpMe99IZ4751gNI)
 
