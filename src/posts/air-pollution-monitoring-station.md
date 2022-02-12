@@ -11,11 +11,15 @@ tags:
 
 Back in 2019, the Morgan Academy Young Engineers Club was working on robotics projects, exploring engineering solutions using microcontrolers such as the Microbit, Arduino and using online tools to programme and connect motors, sensors and articulated structures.
 
-With the help of DundeeMakerspace and their members that are professionals and teachers from the local community, we were able to share interests and explore trends in physical computing, electronics, and many other aspects of the maker movement.
+With the help of members from the DundeeMakerspace that are professionals from the local community, we were able to share ideas and explore trends in physical computing, electronics, and many other aspects of the maker movement.
 
 Dundee is a city that does not seems particularly affected by air pollution as it is surrounded by woodlands and an estuary with the open sea on its doorstep, though it suffers from heavy road traffic as any major urban area, and with some factories still active.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dundee_and_Firth_of_Tay_from_Dundee_Law.jpeg/825px-Dundee_and_Firth_of_Tay_from_Dundee_Law.jpeg)
+
 The school has ample green areas with a large park juts next to it, and were you driving a car you would not notice any major air pollution issues. But for those of us that walk or cycle to school, things are different. Two major roads surround the school and traffic is an issue: lorries, buses are constantly passing by.
+
+![](/images/screenshot-from-2022-02-12-12-18-43.png)
 
 This is the reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee.that will create a portable air pollution monitoring station, and gather our data to share with the locla community, giving the younf peole an opportunity to investigate further their knowledge of pollution and how it affects the locla community. 
 
