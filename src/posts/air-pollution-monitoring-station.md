@@ -21,7 +21,7 @@ The school has ample green areas with a large park juts next to it, and were you
 
 ![](/images/screenshot-from-2022-02-12-12-18-43.png)
 
-This is the reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee.that will create a portable air pollution monitoring station, and gather our data to share with the locla community, giving the younf peole an opportunity to investigate further their knowledge of pollution and how it affects the locla community. 
+This is the reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee.that will create a portable air pollution monitoring station, and gather our data to share with the local community, giving the younf peole an opportunity to investigate further their knowledge of pollution and how it affects the locla community. 
 
 We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and their "Tomorrow Scientist" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. We produced this first video:
 
