@@ -23,7 +23,7 @@ The school has ample green areas with a large park juts next to it, and were you
 
 This is the reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee.that will create a portable air pollution monitoring station, and gather our data to share with the local community, giving the younf peole an opportunity to investigate further their knowledge of pollution and how it affects the locla community. 
 
-We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and their "Tomorrow Scientist" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. We produced this first video:
+We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and their "Tomorrow Scientist" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. For that occasion we produced this first video:
 
 <https://www.youtube.com/watch?v=afwaeJxfApI>
 
@@ -31,9 +31,9 @@ We also wanted to make sure we could share our work with a larger audience using
 
 # Technical Challenges and Documentation
 
-As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of James Bastone from the DundeeMakerspace we were able to work with the latest RaspberryPi addition: the Raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface BIPES that we helped improve giving feedback to the creators.This fantastic new resource was to be deployed later on in the classroom and adapted to the curriculum.
+As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of James Bastone from the DundeeMakerspace we were able to work with the latest RaspberryPi addition: the Raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resource was to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
 
-Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching Air Pollution resources online. 
+Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting adn analysing data. 
 
 We have made the code available online here:
 
@@ -47,7 +47,7 @@ Project information on the Royal Society website:
 
 ![](https://lh3.googleusercontent.com/ZXXOI0-75jEcSA0wf1O_VKUYzUSJZpWUnvPhG-vmmDCkJWkTWKNNjirFZR5nD-lzX-OlsjuYQnWa3qLihytcwbT3YkFVBXn0zm-oPHrLTKCdSB_5R_zQRXvybhpMe99IZ4751gNI)
 
-![]()
+
 
 # Exploring Data
 
@@ -55,8 +55,4 @@ Project information on the Royal Society website:
 
 ![](https://lh6.googleusercontent.com/_Dp7MawoBhQv-PI1YPgmpxlPgSBEW8Nfq6Pt0aSeoaSeaHDMGMr-jx2lSWmQa5qzqxPlEM-a7V10vKsOdLQVywTaxNeT3DX1i0IjKRbOQ0chNlFk1HtbMmDtT3nwjXrc65_6LW0V)
 
-Air quality index parameters:
-
-Small particles PM2.5
-
-Large Particles PM10
+Air quality index parameters we have measured so far: Small Particles PM2.5 and Large Particles PM10
