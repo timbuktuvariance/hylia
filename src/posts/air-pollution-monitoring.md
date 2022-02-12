@@ -39,9 +39,7 @@ Project information on the Royal Society website:
 
 ![](https://lh3.googleusercontent.com/ZXXOI0-75jEcSA0wf1O_VKUYzUSJZpWUnvPhG-vmmDCkJWkTWKNNjirFZR5nD-lzX-OlsjuYQnWa3qLihytcwbT3YkFVBXn0zm-oPHrLTKCdSB_5R_zQRXvybhpMe99IZ4751gNI)
 
-![](https://lh3.googleusercontent.com/EE2WSEcZ2R4UxjitMkfhxPk09sfhxFYKYD5Ie0Sx3xOi8qpf09HJROEbt_Kk9-2renKSgrt7dSMjS8zjxIIfbaVS0pQAPowVWRfJx6TfNbEKgLY9kvs8pdEFzjUOQvZoffA0erDd)
-
-
+![]()
 
 # Exploring Data
 
