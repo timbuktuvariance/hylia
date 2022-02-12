@@ -58,3 +58,7 @@ Project information on the Royal Society website:
 ![](https://lh6.googleusercontent.com/_Dp7MawoBhQv-PI1YPgmpxlPgSBEW8Nfq6Pt0aSeoaSeaHDMGMr-jx2lSWmQa5qzqxPlEM-a7V10vKsOdLQVywTaxNeT3DX1i0IjKRbOQ0chNlFk1HtbMmDtT3nwjXrc65_6LW0V)
 
 Air quality index parameters we have measured so far: Small Particles PM2.5 and Large Particles PM10
+
+The future is bright
+
+The resources created in this project will be used with other schools and organisations in the local community - watch this space
