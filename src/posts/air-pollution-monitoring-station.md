@@ -21,7 +21,7 @@ The school has ample green areas with a large park right next to it, and were yo
 
 ![](/images/screenshot-from-2022-02-12-12-18-43.png)
 
-This is the reason we decided to present a project to the Royal Society with Dr David Martin from the University of Dundee. We will create a portable air pollution monitoring station, and gather our data to share with the local community, giving young people an opportunity to investigate further their knowledge of pollution and how it affects their neighbourhood. 
+This is the reason we decided to present a project to the Royal Society with [Dr David Martin from the University of Dundee](https://www.dundee.ac.uk/people/david-martin). We will create a portable air pollution monitoring station, and gather our data to share with the local community, giving young people an opportunity to investigate further their knowledge of pollution and how it affects their neighbourhood. 
 
 We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and their "[Tomorrow Scientist](https://royalsociety.org/grants-schemes-awards/grants/partnership-grants/tomorrows-climate-scientists/)" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. For that occasion we produced this first video:
 
@@ -31,7 +31,7 @@ We also wanted to make sure we could share our work with a larger audience using
 
 # Technical Challenges and Documentation
 
-As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of James Bastone from the DundeeMakerspace we were able to work with the latest RaspberryPi addition: the Raspberry Pico, just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resource was to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
+As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of [James Bastone from the DundeeMakerspace](https://sen.scot/resources/social-enterprise-profiles/dundee-makerspace/) we were able to work with the latest RaspberryPi addition: the [Raspberry Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), just out of the PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new simpler and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resource was to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
 
 Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
