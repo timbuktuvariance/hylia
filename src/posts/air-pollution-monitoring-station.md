@@ -35,6 +35,12 @@ As part of the project, we have been building up on our knowledge and understand
 
 Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
+Online circuit simulation with Tinkercad has proven a usefull companion
+
+Practical skills needed
+
+Python Coding experts at work
+
 We have made the code available online here:
 
 https://github.com/JamesBastone/pico-pollution-sensor[](https://www.youtube.com/watch?v=afwaeJxfApI)
