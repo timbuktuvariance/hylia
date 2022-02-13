@@ -35,7 +35,9 @@ As part of the project, we have been building up on our knowledge and understand
 
 Young people have engage with the project and have found space to develop their own interest, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
-Online circuit simulation with Tinkercad has proven a usefull companion
+Online circuit simulation with Tinkercad has proven a useful companion
+
+![](/images/screenshot-from-2022-02-13-12-38-04.png "Online circuit simulation with Tinkercad has proven a useful companion")
 
 Practical skills needed
 
