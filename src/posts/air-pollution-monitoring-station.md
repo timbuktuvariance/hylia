@@ -31,7 +31,7 @@ We also wanted to make sure we could share our work with a larger audience using
 
 # Technical Challenges and Documentation
 
-As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of [James Bastone from the DundeeMakerspace](https://sen.scot/resources/social-enterprise-profiles/dundee-makerspace/) we were able to work with the latest RaspberryPi addition: the [Raspberry Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), just out of Raspberry Pi PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new, simpler and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resource was to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
+As part of the project, we have been building up on our knowledge and understanding of sensors and micro-controllers. With the support of [James Bastone from the DundeeMakerspace](https://sen.scot/resources/social-enterprise-profiles/dundee-makerspace/) we were able to work with the latest RaspberryPi addition: the [Raspberry Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/), just out of Raspberry Pi PCB press in January 2021, a decision that was going to give young people the privilege to work with the latest technology available, with a brand new, simple and trouble free online interface [BIPES](https://bipes.net.br/beta2/ui/). This fantastic new resources were to be deployed later on in the classroom and adapted to our Engineering Science curriculum.
 
 Young people have engaged with the project and have found space to develop their own interests, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
@@ -39,13 +39,17 @@ Online circuit simulation with Tinkercad has proven a useful companion
 
 ![](/images/screenshot-from-2022-02-13-12-38-04.png "Online circuit simulation with Tinkercad has proven a useful companion")
 
-Practical skills needed
 
-Python Coding experts at work
+
+![Practical skills are essential](/images/screenshot-from-2022-02-27-21-10-20.png "Practical skills are essential")
+
+
+
+![Python Coding experts at work](/images/screenshot-from-2022-02-27-21-07-12.png "Python Coding experts at work")
 
 We have made the code available online here:
 
-https://github.com/JamesBastone/pico-pollution-sensor[](https://www.youtube.com/watch?v=afwaeJxfApI)
+https://github.com/JamesBastone/pico-pollution-sensor[](https://github.com/JamesBastone/pico-pollution-sensor)
 
 Project information on the Royal Society website: 
 
