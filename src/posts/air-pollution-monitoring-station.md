@@ -39,11 +39,11 @@ Online circuit simulation with Tinkercad has proven a useful companion
 
 ![](/images/screenshot-from-2022-02-13-12-38-04.png "Online circuit simulation with Tinkercad has proven a useful companion")
 
-Practical skills are essential
+
 
 ![Practical skills are essential](/images/screenshot-from-2022-02-27-21-10-20.png "Practical skills are essential")
 
-Python Coding experts at work
+
 
 ![Python Coding experts at work](/images/screenshot-from-2022-02-27-21-07-12.png "Python Coding experts at work")
 
