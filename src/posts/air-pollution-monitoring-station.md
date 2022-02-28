@@ -27,7 +27,7 @@ We also wanted to make sure we could share our work with a larger audience using
 
 <https://www.youtube.com/watch?v=afwaeJxfApI>
 
-![](https://lh5.googleusercontent.com/K17tLCDsgLijTs6sGPE5aGzmT5fhUTalbABknwqhmvp3LUr0xU3eBmfuD45sh1vaoOr8qEJ6mGeBmsKLO29Un39YLbPiLQLSDZuui37JqcY6OmpiwIVGl5WZKCsYq8kKssnGJbGs "Air Pollution in Dundee")
+![Air Pollution in Dundee](https://lh5.googleusercontent.com/K17tLCDsgLijTs6sGPE5aGzmT5fhUTalbABknwqhmvp3LUr0xU3eBmfuD45sh1vaoOr8qEJ6mGeBmsKLO29Un39YLbPiLQLSDZuui37JqcY6OmpiwIVGl5WZKCsYq8kKssnGJbGs "Air Pollution in Dundee")
 
 # Technical Challenges and Documentation
 
@@ -35,15 +35,15 @@ As part of the project, we have been building up on our knowledge and understand
 
 Young people have engaged with the project and have found space to develop their own interests, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
-Online circuit simulation with Tinkercad has proven a useful companion:
+
 
 ![](/images/screenshot-from-2022-02-13-12-38-04.png "Online circuit simulation with Tinkercad has proven a useful companion")
 
-Practical skills are essential:
+
 
 ![Practical skills are essential](/images/screenshot-from-2022-02-27-21-10-20.png "Practical skills are essential")
 
-Python Coding experts at work:
+
 
 ![Python Coding experts at work](/images/screenshot-from-2022-02-27-21-07-12.png "Python Coding experts at work")
 
