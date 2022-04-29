@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Air pollution monitoring station
+title: Air Pollution Monitoring Station
 date: 2022-01-26T13:14:28.414Z
 tags:
   - pollution
@@ -35,21 +35,15 @@ As part of the project, we have been building up on our knowledge and understand
 
 Young people have engaged with the project and have found space to develop their own interests, either by building the station, coding the boards, creating communication materials, such as video and voice recording, researching air pollution resources online, collecting and analysing data. 
 
-
-
 ![](/images/screenshot-from-2022-02-13-12-38-04.png "Online circuit simulation with Tinkercad has proven a useful companion")
 
-
-
 ![Practical skills are essential](/images/screenshot-from-2022-02-27-21-10-20.png "Practical skills are essential")
-
-
 
 ![Python Coding experts at work](/images/screenshot-from-2022-02-27-21-07-12.png "Python Coding experts at work")
 
 We have made the code available online here:
 
-https://github.com/JamesBastone/pico-pollution-sensor[](https://github.com/JamesBastone/pico-pollution-sensor)
+https://github.com/hilltownstobswelltech/pico-pollution-sensor
 
 Project information on the Royal Society website: 
 
@@ -73,4 +67,6 @@ Air quality index parameters we have measured so far: Small Particles PM2.5 and 
 
 # The future is bright
 
-The resources created in this project will be used with other schools and organisations in the local community - watch this space
+The resources created in this project will be used with other schools and organisations in the local community. we have more information about our local technology educators network here:
+
+https://hilltownstobswell.tech
