@@ -43,7 +43,7 @@ Young people have engaged with the project and have found space to develop their
 
 We have made the code available online here:
 
-https://github.com/hilltownstobswelltech/pico-pollution-sensor
+<https://github.com/hilltownstobswelltech/pico-pollution-sensor>
 
 Project information on the Royal Society website: 
 
@@ -69,4 +69,4 @@ Air quality index parameters we have measured so far: Small Particles PM2.5 and 
 
 The resources created in this project will be used with other schools and organisations in the local community. we have more information about our local technology educators network here:
 
-https://hilltownstobswell.tech
+<https://hilltownstobswell.tech>
