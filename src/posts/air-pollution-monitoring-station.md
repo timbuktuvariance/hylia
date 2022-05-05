@@ -30,11 +30,11 @@ The school has ample green areas with a large park right next to it, and were yo
 
 ![](/images/screenshot-from-2022-02-12-12-18-43.png)
 
-![](https://neondigitalarts.com/wp-content/uploads/2018/06/University-of-Dundee-logo.png)
+![](/images/morgananduod.png)
 
 This is the reason we decided to present a project to the Royal Society with [Dr David Martin from the University of Dundee](https://www.dundee.ac.uk/people/david-martin). We will create a portable air pollution monitoring station, and gather our data to share with the local community, giving young people an opportunity to investigate further their knowledge of pollution and how it affects their neighbourhood. 
 
-We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and their "[Tomorrow Scientist](https://royalsociety.org/grants-schemes-awards/grants/partnership-grants/tomorrows-climate-scientists/)" initiative. They went to great length to contact local media and politicians to maximise the impact of our work. For that occasion we produced this first video:
+We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and the [Tomorrow's Climate Scientist](https://royalsociety.org/grants-schemes-awards/grants/partnership-grants/tomorrows-climate-scientists/) initiative. They went to great length to contact local media and politicians to maximise the impact of our work. For that occasion we produced this first video:
 
 <https://www.youtube.com/watch?v=afwaeJxfApI>
 
