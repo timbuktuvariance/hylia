@@ -1,11 +1,20 @@
 ---
 layout: layouts/post.njk
 title: Air Pollution Monitoring Station
+metaTitle: Air Pollution Monitoring Station
+metaDesc: Morgan Academy University of Dundee Air pollution monitoring station
+  with raspberry pico
 date: 2022-01-26T13:14:28.414Z
 tags:
   - pollution
   - school
   - raspberrypi
+  - university
+  - dundee
+  - morgan
+  - academy
+  - pico
+  - air
 ---
 # Air Quality Monitoring Project
 
@@ -20,6 +29,8 @@ Dundee is a city that does not seems particularly affected by air pollution as i
 The school has ample green areas with a large park right next to it, and were you driving a car you would not notice any major air pollution issues. But for those of us that walk or cycle to school, things are different. Two major roads surround the school and traffic is an issue: large lorries and buses are constantly passing by.
 
 ![](/images/screenshot-from-2022-02-12-12-18-43.png)
+
+![](https://neondigitalarts.com/wp-content/uploads/2018/06/University-of-Dundee-logo.png)
 
 This is the reason we decided to present a project to the Royal Society with [Dr David Martin from the University of Dundee](https://www.dundee.ac.uk/people/david-martin). We will create a portable air pollution monitoring station, and gather our data to share with the local community, giving young people an opportunity to investigate further their knowledge of pollution and how it affects their neighbourhood. 
 
