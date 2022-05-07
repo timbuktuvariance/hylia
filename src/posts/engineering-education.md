@@ -23,9 +23,9 @@ tags:
 ---
 Engaging Students with Engineering Activities
 
-This article is based on the work done by educators in the local community of Hilltown and Stobswell. 
+This article is based on an educational project led by educators from the local community of Hilltown and Stobswell. 
 
-It gathered educators, teachers and local organisations to disucss and promote engineering and technology resources and activities.
+The project gathered educators, teachers and local organisations to discuss and promote engineering and technology resources and activities with young people
 
 A website was created to promote the work:
 
@@ -37,9 +37,7 @@ The working group developed the following resources and activities:
 
 Makerspaces: designing and creating workbenches for practical activities, sourcing tools and materials
 
-3D printring
-
-
+3D printring: sourcing and assembling 3D printers for each local school, sharing 3D printing expertise with the local community 
 
 Air quality monitoring station
 
