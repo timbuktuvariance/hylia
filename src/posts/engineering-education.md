@@ -39,6 +39,8 @@ Makerspaces: designing and creating workbenches for practical activities, sourci
 
 Electronic devices: learning to use microcontrollers, sensors and motors, programming and assembling devices. See specific resources below
 
+{{< tweet 989470885475008512 >}} 
+
 Robot with microbits and servo motors
 
 Air quality monitoring station: a station involving laser cutting, programming raspberry pico, assembly electronic devices, data logging and local community discussion about air pollution
