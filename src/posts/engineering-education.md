@@ -37,6 +37,8 @@ The working group developed the following resources and activities:
 
 Makerspaces: designing and creating workbenches for practical activities, sourcing tools and materials
 
+![](/images/win_20220505_10_29_40_pro.jpg)
+
 Electronic devices: learning to use microcontrollers, sensors and motors, programming and assembling devices. See specific resources below
 
 {{< tweet 989470885475008512 >}} 
