@@ -41,7 +41,7 @@ Electronic devices: learning to use microcontrollers, sensors and motors, progra
 
 Robot with microbits and servo motors
 
-Air quality monitoring station: a station involving laser cutting, programming raspberry pico, assembly electronic decices, data logging and local community discussion about air pollution
+Air quality monitoring station: a station involving laser cutting, programming raspberry pico, assembly electronic devices, data logging and local community discussion about air pollution
 
 ![](/images/untitled.png)
 
