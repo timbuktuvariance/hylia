@@ -42,7 +42,10 @@ Makerspaces: designing and creating workbenches for practical activities, sourci
 
 Electronic devices: learning to use microcontrollers, sensors and motors, programming and assembling devices. See specific resources below
 
-{{< tweet 989470885475008512 >}} 
+<!-- blank line -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last night we had an amazing <a href="https://twitter.com/hashtag/microbit?src=hash&amp;ref_src=twsrc%5Etfw">#microbit</a> teacher training session <a href="https://twitter.com/RosebankPS?ref_src=twsrc%5Etfw">@RosebankPS</a> thank you <a href="https://twitter.com/sarahscotland?ref_src=twsrc%5Etfw">@sarahscotland</a> for organising! <br><br>Helping teachers get up to speed ready for their new micro:bits arriving! <a href="https://twitter.com/microbit_edu?ref_src=twsrc%5Etfw">@microbit_edu</a> <a href="https://twitter.com/DigiLearnDundee?ref_src=twsrc%5Etfw">@DigiLearnDundee</a> <a href="https://t.co/FvWwhqrUBq">pic.twitter.com/FvWwhqrUBq</a></p>&mdash; RaspiKidd (@RaspiKidd) <a href="https://twitter.com/RaspiKidd/status/1522147325019308032?ref_src=twsrc%5Etfw">May 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<!-- blank line -->
+
 
 Robot with microbits and servo motors
 
