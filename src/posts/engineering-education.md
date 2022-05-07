@@ -47,6 +47,6 @@ Air quality monitoring station: a station involving laser cutting, programming r
 
 Hydroponics.
 
-3D printring: sourcing and assembling 3D printers for each local school, sharing 3D printing expertise with the local community 
+3D printing: sourcing and assembling 3D printers for each local school, sharing 3D printing expertise with the local community 
 
 ![](https://cdn.shopify.com/s/files/1/0217/6004/9216/products/Ender-3S1_-2_e8328bde-a6a2-431e-8412-51c437e632ff_1200x1200.png)
