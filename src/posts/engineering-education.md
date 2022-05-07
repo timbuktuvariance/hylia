@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Engineering Education in the Community
 metaTitle: Engineering Education in the Community
 metaDesc: Engineering Education in the Community
+socialImage: /images/favicon.png
 date: 2021-10-31T11:53:21.042Z
 tags:
   - engineering
@@ -37,7 +38,11 @@ The working group developed the following resources and activities:
 
 Makerspaces: designing and creating workbenches for practical activities, sourcing tools and materials
 
+![](/images/win_20220505_10_29_40_pro.jpg)
+
 Electronic devices: learning to use microcontrollers, sensors and motors, programming and assembling devices. See specific resources below
+
+{{< tweet 989470885475008512 >}} 
 
 Robot with microbits and servo motors
 
