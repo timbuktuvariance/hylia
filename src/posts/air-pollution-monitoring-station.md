@@ -36,9 +36,9 @@ This is the reason we decided to present a project to the Royal Society with [Dr
 
 We also wanted to make sure we could share our work with a larger audience using young people communication skills to raise awareness. This was greatly supported by the communication team at the Royal Society and the [Tomorrow's Climate Scientist](https://royalsociety.org/grants-schemes-awards/grants/partnership-grants/tomorrows-climate-scientists/) initiative. They went to great length to contact local media and politicians to maximise the impact of our work. For that occasion we produced this first video:
 
-<https://www.youtube.com/watch?v=afwaeJxfApI>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/afwaeJxfApI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Air Pollution in Dundee](https://lh5.googleusercontent.com/K17tLCDsgLijTs6sGPE5aGzmT5fhUTalbABknwqhmvp3LUr0xU3eBmfuD45sh1vaoOr8qEJ6mGeBmsKLO29Un39YLbPiLQLSDZuui37JqcY6OmpiwIVGl5WZKCsYq8kKssnGJbGs "Air Pollution in Dundee")
+<https://www.youtube.com/watch?v=afwaeJxfApI>
 
 # Technical Challenges and Documentation
 
