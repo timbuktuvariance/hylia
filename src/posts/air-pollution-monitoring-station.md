@@ -20,7 +20,7 @@ tags:
 
 Back in 2019, the Morgan Academy Young Engineers Club was working on robotics projects, exploring engineering solutions using microcontrollers such as the Microbit, Arduino and using online tools to programme and connect motors, sensors and articulated structures.
 
- A summary of this article is available on[ the Royal Society's website](https://royalsociety.org/blog/2022/05/computing-air-pollution/)
+(*A summary of this article is available on*[ the Royal Society's website](https://royalsociety.org/blog/2022/05/computing-air-pollution/))
 
 With the help of members from DundeeMakerspace that are professionals from the local community, we were able to share ideas and explore trends in physical computing, electronics, and many other aspects of the maker movement.
 
