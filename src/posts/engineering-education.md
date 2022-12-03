@@ -4,7 +4,7 @@ title: Engineering Education in the Community
 metaTitle: Engineering Education in the Community
 metaDesc: Engineering Education in the Community
 socialImage: /images/favicon.png
-date: 2021-10-31T11:53:21.042Z
+date: 2022-12-03T12:01:19.085Z
 tags:
   - engineering
   - education
